@@ -1,0 +1,8 @@
+/*  clase 7 */
+*{
+   font-family:"Poppins", sans-serif;
+   /* normalizacion*/
+     box-sizing: border-box ;
+     margin: 0;
+     padding: 0;
+}
